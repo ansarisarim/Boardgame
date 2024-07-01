@@ -119,11 +119,11 @@
 
 	 <distributionManagement>
         <repository>
-            <id>maven-releases</id>
+            <id>devops-release</id>
             <url>http://100.25.145.33:8081/repository/devops-release/</url>
         </repository>
         <snapshotRepository>
-            <id>maven-snapshots</id>
+            <id>devops-snapshot</id>
             <url>http://100.25.145.33:8081/repository/devops-snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
